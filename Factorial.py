@@ -1,3 +1,5 @@
+# Question: Calculate the factorial of a given non-negative integer.
+
 try:
     num = int(input("Enter any number for factorial: "))
     if num < 0:
